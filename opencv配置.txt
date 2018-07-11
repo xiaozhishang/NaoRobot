@@ -1,0 +1,78 @@
+C:\Users\transcosmos\Downloads\opencv\build\install\include
+C:\Users\transcosmos\Downloads\opencv\build\include
+C:\Users\transcosmos\Downloads\opencv\build\include\opencv
+C:\Program Files\Python35\include
+C:\Users\transcosmos\Downloads\opencv\build\include\opencv2
+C:\Users\transcosmos\Downloads\GenICam_Package_v3_0_2\Reference Implementation\GenICam_V3_0_2-Win64_x64_VS120-Release-Development\library\CPP\include
+
+
+
+C:\Program Files\Python35\Lib
+C:\Program Files\Python35\libs
+C:\Users\transcosmos\Downloads\opencv\build\install\x64\vc14\lib
+C:\Users\transcosmos\Downloads\opencv\build\x64\vc14\lib
+C:\Users\transcosmos\Downloads\GenICam_Package_v3_0_2\Reference Implementation\GenICam_V3_0_2-Win64_x64_VS120-Release-Development\library\CPP\lib\Win64_x64
+
+opencv_world320d.lib
+opencv_xfeatures2d320d.lib
+opencv_features2d320d.lib
+python35_d.lib
+
+
+C:\Program Files\opencv\build\include
+C:\Program Files\opencv\build\include\opencv
+C:\Program Files\opencv\build\include\opencv2
+
+C:\Program Files\opencv\build\x64\vc14\lib
+
+opencv_world320.lib
+opencv_world320d.lib
+
+C:\Program Files\opencv\opencvContrib\install\include
+C:\Program Files\opencv\opencvContrib\install\include\opencv
+C:\Program Files\opencv\opencvContrib\install\include\opencv2
+
+C:\Program Files\opencv\opencvContrib\install\x64\vc14\lib
+
+opencv_world320.lib
+opencv_objdetect320.lib
+opencv_optflow320.lib
+opencv_phase_unwrapping320.lib
+opencv_photo320.lib
+opencv_plot320.lib
+opencv_reg320.lib
+opencv_rgbd320.lib
+opencv_aruco320.lib
+opencv_bgsegm320.lib
+opencv_bioinspired320.lib
+opencv_calib3d320.lib
+opencv_ccalib320.lib
+opencv_core320.lib
+opencv_datasets320.lib
+opencv_dnn320.lib
+opencv_dpm320.lib
+opencv_face320.lib
+opencv_features2d320.lib
+opencv_flann320.lib
+opencv_fuzzy320.lib
+opencv_highgui320.lib
+opencv_imgcodecs320.lib
+opencv_imgproc320.lib
+opencv_line_descriptor320.lib
+opencv_ml320.lib
+opencv_saliency320.lib
+opencv_shape320.lib
+opencv_stereo320.lib
+opencv_stitching320.lib
+opencv_structured_light320.lib
+opencv_superres320.lib
+opencv_surface_matching320.lib
+opencv_text320.lib
+opencv_tracking320.lib
+opencv_video320.lib
+opencv_videoio320.lib
+opencv_videostab320.lib
+opencv_xfeatures2d320.lib
+opencv_ximgproc320.lib
+opencv_xobjdetect320.lib
+opencv_xphoto320.lib
